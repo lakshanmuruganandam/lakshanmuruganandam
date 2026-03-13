@@ -13,7 +13,7 @@
 
 <div align="center">
 
-`01001100 01000001 01001011 01010011 01001000` **LAKSHAN MURUGANANDAM** `01000010 01010101 01001001 01001100 01000100`
+`01001100 01000001 01001011 01010011 01001000` **COOOOOOOOL** `01000010 01010101 01001001 01001100 01000100`
 
 </div>
 
@@ -990,7 +990,7 @@ Deeply interested in **Mathematics & Physics** — the foundations behind every 
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=END%20OF%20TRANSMISSION%20%2F%2F%20LAKSHAN.EXE&fontSize=14&fontColor=4ecdc4&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=END%20OF%20TRANSMISSION%20%2F%2F%20LADDOO.EXE&fontSize=14&fontColor=4ecdc4&animation=fadeIn" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&height=8&color=0:ff6b6b,25:a855f7,50:4ecdc4,75:ffe66d,100:ff6b6b&section=footer"/>
 
