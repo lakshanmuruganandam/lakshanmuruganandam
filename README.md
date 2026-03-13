@@ -13,7 +13,7 @@
 
 <div align="center">
 
-`01001100 01000001 01001011 01010011 01001000 01000001 01001110` **LAKSHAN MURUGANANDAM** `01000010 01010101 01001001 01001100 01000100`
+`01001100 01000001 01001011 01010011 01001000` **LAKSHAN MURUGANANDAM** `01000010 01010101 01001001 01001100 01000100`
 
 </div>
 
@@ -24,7 +24,7 @@
 <div align="center">
 
 <h3>
-<code>$ whoami</code> → Energy Engineer | AI/ML Obsessed | CTF Hacker | Chess AI Creator | Roboticist
+<code>$ whoami</code> → Energy Engineer | AI/ML Obsessed | CTF Hacker | Programmer | Roboticist
 </h3>
 
 **`> build first. ask questions later.`**
@@ -186,10 +186,6 @@ me = Lakshan()  # 🚀
 <br><br>
 
 <img width="90%" src="https://github-readme-stats.vercel.app/api?username=lakshanmuruganandam&show_icons=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&icon_color=4ecdc4&border_color=1a1b27&ring_color=ff6b6b&count_private=true&include_all_commits=true" alt="Stats"/>
-
-<br><br>
-
-<img width="90%" src="https://streak-stats.demolab.app?user=lakshanmuruganandam&background=0D1117&ring=FF6B6B&fire=FFE66D&currStreakLabel=4ECDC4&sideLabels=C9D1D9&sideNums=FF6B6B&currStreakNum=4ECDC4&dates=8B949E&border=1A1B27" alt="Streak"/>
 
 <br><br>
 
@@ -355,7 +351,7 @@ AI-driven intelligent classification. CV pipelines that sort and categorize elec
 
 **🛸 Drone CV Pipeline**
 
-Real-time OpenCV on surveillance drones. ArUco marker detection for robotic arm control. 30fps at altitude.
+Real-time OpenCV on surveillance drones. ArUco marker detection for robotic arm control. Building Planning.
 
 ```
 [DRONE] Frame: 1920x1080 @ 30fps
@@ -791,19 +787,11 @@ Deeply interested in **Mathematics & Physics** — the foundations behind every 
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lakshanmuruganandam&show_icons=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&icon_color=4ecdc4&border_color=1a1b27&ring_color=ff6b6b&count_private=true&include_all_commits=true" alt="Stats"/>
 &nbsp;
-<img width="49%" src="https://streak-stats.demolab.app?user=lakshanmuruganandam&background=0D1117&ring=FF6B6B&fire=FFE66D&currStreakLabel=4ECDC4&sideLabels=C9D1D9&sideNums=FF6B6B&currStreakNum=4ECDC4&dates=8B949E&border=1A1B27" alt="Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshanmuruganandam&layout=compact&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&border_color=1a1b27" alt="Languages"/>
 
 <br><br>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=lakshanmuruganandam&bg_color=0d1117&color=c9d1d9&line=ff6b6b&point=ffe66d&area_color=4ecdc4&area=true&hide_border=true&custom_title=The%20Grind%20%E2%80%94%20Every%20Commit%20Visualized%20%F0%9F%94%A5" alt="Activity Graph"/>
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=lakshanmuruganandam&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies"/>
-
-<br>
-
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshanmuruganandam&layout=donut-vertical&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&border_color=1a1b27" alt="Languages"/>
 
 <br><br>
 
@@ -983,8 +971,27 @@ Deeply interested in **Mathematics & Physics** — the foundations behind every 
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
+<!-- BINARY MATRIX FOOTER -->
+
+```
+01001100 01000001 01001011 01010011 01001000 01000001 01001110 00100000 01001101
+01010101 01010010 01010101 01000111 01000001 01001110 01000001 01001110 01000100
+01000001 01001101 00101110 00100000 01000101 01001110 01000101 01010010 01000111
+01011001 00101110 00100000 01000001 01001001 00101110 00100000 01001000 01000001
+01000011 01001011 01000101 01010010 00101110 00100000 01000010 01010101 01001001
+01001100 01000100 01000101 01010010 00101110 00100000 01010100 01001000 01000101
+00100000 01000111 01010010 01001001 01001110 01000100 00100000 01001110 01000101
+01010110 01000101 01010010 00100000 01010011 01010100 01001111 01010000 01010011
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=ff6b6b" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=4ecdc4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=ffe66d" width="100%"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=END%20OF%20TRANSMISSION%20%2F%2F%20LAKSHAN.EXE&fontSize=14&fontColor=4ecdc4&animation=fadeIn" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&height=8&color=0:ff6b6b,25:a855f7,50:4ecdc4,75:ffe66d,100:ff6b6b&section=footer"/>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,15:ff6b6b,30:a855f7,50:4ecdc4,70:ffe66d,85:ff6b6b,100:0d1117&section=footer"/>
