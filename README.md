@@ -874,8 +874,8 @@ Deeply interested in **Mathematics & Physics** — the foundations behind every 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
 </h2>
 
-<a href="mailto:lakshanmuruganandam@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-lakshanmuruganandam-0d1117?style=for-the-badge&logo=gmail&logoColor=ff6b6b&labelColor=0d1117&color=ff6b6b" alt="Email"/>
+<a href="mailto:lakshanmuruganandam22212015@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-lakshanmuruganandam22212015-0d1117?style=for-the-badge&logo=gmail&logoColor=ff6b6b&labelColor=0d1117&color=ff6b6b" alt="Email"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/lakshanmuruganandam">
