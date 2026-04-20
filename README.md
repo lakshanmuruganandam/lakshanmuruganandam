@@ -910,7 +910,7 @@ Deeply interested in **Mathematics & Physics** — the foundations behind every 
 <!-- OPEN TO ROLES -->
 <img src="https://img.shields.io/badge/⚡_OPEN_TO_ROLES-SWE_·_Security_·_AI_·_Anything-ff6b6b?style=for-the-badge&labelColor=0d1117"/>
 &nbsp;
-<img src="https://img.shields.io/badge/📍_ABU_DHABI_·_REMOTE_·_RELOCATION_OK-4ecdc4?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/📍_ABU_DHABI_·_REMOTE-4ecdc4?style=for-the-badge&labelColor=0d1117"/>
 &nbsp;
 <img src="https://img.shields.io/badge/📬_DMs_·_EMAIL_·_OPEN-ffe66d?style=for-the-badge&labelColor=0d1117"/>
 
