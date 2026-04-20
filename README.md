@@ -699,6 +699,10 @@ Deeply interested in **Mathematics & Physics** — the foundations behind every 
 
 <div align="center">
 
+<a href="https://github.com/lakshanmuruganandam/recon-skill">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lakshanmuruganandam&repo=recon-skill&bg_color=0d1117&title_color=ffe66d&text_color=c9d1d9&icon_color=ff6b6b&border_color=1a1b27" alt=""/>
+</a>
+&nbsp;
 <a href="https://github.com/lakshanmuruganandam/ROBOGAMBIT-IITDAD">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=lakshanmuruganandam&repo=ROBOGAMBIT-IITDAD&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&icon_color=4ecdc4&border_color=1a1b27" alt=""/>
 </a>
@@ -706,6 +710,17 @@ Deeply interested in **Mathematics & Physics** — the foundations behind every 
 </div>
 
 <br>
+
+<details>
+<summary>
+<img src="https://img.shields.io/badge/🔐-0d1117?style=flat-square" alt=""/>
+<b>&nbsp;recon-skill — AI-Triaged Attack Surface Discovery (Claude Code)</b>
+</summary>
+<br>
+
+> Subfinder + Nuclei + LLM triage, shipped as a Claude Code skill. Turns an 800-line Nuclei dump into a prioritized Critical/High/Medium report with plain-English "why it matters" and concrete next steps. Authorization gate baked in. For security teams, SOC analysts, and platform engineers who need signal, not noise.
+
+</details>
 
 <details>
 <summary>
@@ -881,6 +896,23 @@ Deeply interested in **Mathematics & Physics** — the foundations behind every 
 <a href="https://github.com/lakshanmuruganandam">
   <img src="https://img.shields.io/badge/GITHUB-lakshanmuruganandam-0d1117?style=for-the-badge&logo=github&logoColor=4ecdc4&labelColor=0d1117&color=4ecdc4" alt="GitHub"/>
 </a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/lakshan-muruganandam/">
+  <img src="https://img.shields.io/badge/LINKEDIN-lakshan--muruganandam-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117&color=0A66C2" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://news.ycombinator.com/user?id=Laddoo_22212015">
+  <img src="https://img.shields.io/badge/HN-Laddoo__22212015-0d1117?style=for-the-badge&logo=ycombinator&logoColor=ff6600&labelColor=0d1117&color=ff6600" alt="Hacker News"/>
+</a>
+
+<br><br>
+
+<!-- OPEN TO ROLES -->
+<img src="https://img.shields.io/badge/⚡_OPEN_TO_ROLES-SWE_·_Security_·_AI_·_Anything-ff6b6b?style=for-the-badge&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/📍_ABU_DHABI_·_REMOTE_·_RELOCATION_OK-4ecdc4?style=for-the-badge&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/📬_DMs_·_EMAIL_·_OPEN-ffe66d?style=for-the-badge&labelColor=0d1117"/>
 
 <br><br>
 
